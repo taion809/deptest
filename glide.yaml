@@ -1,0 +1,4 @@
+package: github.com/taion809/deptest
+import:
+- package: github.com/taion809/depteststringer
+- package: github.com/taion809/deptestupstringer
