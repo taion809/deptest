@@ -1,0 +1,17 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/taion809/depteststringer",
+			"repository": "https://github.com/taion809/depteststringer",
+			"revision": "9123b422a7053d3339f30b36620b1d40732b5b71",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/taion809/deptestupstringer",
+			"repository": "https://github.com/taion809/deptestupstringer",
+			"revision": "44b757d65cee0191f896105aa6b22aa7bc420247",
+			"branch": "master"
+		}
+	]
+}
