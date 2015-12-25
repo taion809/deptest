@@ -1,6 +1,0 @@
-hash: 9892bfeaae7033f57bb6a38bf56b0a243cb8cbc74dcf380a96078503bd1617b6
-updated: 2015-12-24T20:48:42.574257135-05:00
-imports:
-- name: github.com/taion809/depteststringer
-  version: 9123b422a7053d3339f30b36620b1d40732b5b71
-devImports: []
